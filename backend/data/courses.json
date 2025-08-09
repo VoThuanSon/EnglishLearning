@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Basic English Vocabulary",
+    "description": "Learn essential words for everyday communication.",
+    "instructor": "Jane Smith"
+  },
+  {
+    "title": "English Grammar Essentials",
+    "description": "Master tenses, articles, and sentence structure.",
+    "instructor": "John Doe"
+  },
+  {
+    "title": "English for Travel",
+    "description": "Useful expressions and phrases for traveling abroad.",
+    "instructor": "Alice Johnson"
+  },
+  {
+    "title": "Business English Communication",
+    "description": "Improve your business writing and speaking skills.",
+    "instructor": "David Kim"
+  },
+  {
+    "title": "IELTS Preparation Course",
+    "description": "Practice for all 4 skills to achieve a high IELTS score.",
+    "instructor": "Emily Brown"
+  },
+  {
+    "title": "Pronunciation and Listening Practice",
+    "description": "Enhance your accent and listening comprehension.",
+    "instructor": "Robert Green"
+  },
+  {
+    "title": "English through Stories",
+    "description": "Learn grammar and vocabulary with short stories.",
+    "instructor": "Linda Nguyen"
+  },
+  {
+    "title": "Phrasal Verbs in Context",
+    "description": "Master common phrasal verbs with examples.",
+    "instructor": "Mark Lee"
+  },
+  {
+    "title": "Academic Writing Skills",
+    "description": "Develop skills for writing essays and reports.",
+    "instructor": "Sarah White"
+  },
+  {
+    "title": "English Conversation Practice",
+    "description": "Build speaking confidence through guided dialogue.",
+    "instructor": "Tom Wilson"
+  }
+]

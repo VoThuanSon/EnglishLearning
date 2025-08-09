@@ -1,0 +1,112 @@
+[
+  {
+    "title": "The Importance of Reading",
+    "paragraph": "Reading is a fundamental skill that everyone should develop. It allows people to explore new ideas and understand the world better.",
+    "questions": [
+      {
+        "question": "What is the main idea of the passage?",
+        "options": ["Reading is boring", "Reading helps explore ideas", "Reading is hard", "Reading is useless"],
+        "answer": "Reading helps explore ideas"
+      }
+    ]
+  },
+  {
+    "title": "A Trip to the Zoo",
+    "paragraph": "Last weekend, we visited the city zoo. The children loved watching the lions and monkeys play in their enclosures.",
+    "questions": [
+      {
+        "question": "What did the children enjoy at the zoo?",
+        "options": ["Reading books", "Watching animals", "Eating food", "Riding bikes"],
+        "answer": "Watching animals"
+      }
+    ]
+  },
+  {
+    "title": "Healthy Eating Habits",
+    "paragraph": "Eating fruits and vegetables every day is essential for a healthy lifestyle. It gives your body vitamins and energy.",
+    "questions": [
+      {
+        "question": "Why are fruits and vegetables important?",
+        "options": ["They taste good", "They are cheap", "They give vitamins and energy", "They are easy to cook"],
+        "answer": "They give vitamins and energy"
+      }
+    ]
+  },
+  {
+    "title": "The Solar System",
+    "paragraph": "The solar system consists of the sun and eight planets. Earth is the third planet from the sun and supports life.",
+    "questions": [
+      {
+        "question": "Which planet supports life?",
+        "options": ["Mars", "Venus", "Earth", "Jupiter"],
+        "answer": "Earth"
+      }
+    ]
+  },
+  {
+    "title": "The Water Cycle",
+    "paragraph": "Water moves through a cycle of evaporation, condensation, and precipitation. This process is essential for life on Earth.",
+    "questions": [
+      {
+        "question": "Which of the following is part of the water cycle?",
+        "options": ["Erosion", "Evaporation", "Combustion", "Fertilization"],
+        "answer": "Evaporation"
+      }
+    ]
+  },
+  {
+    "title": "My Favorite Hobby",
+    "paragraph": "I love painting in my free time. It helps me relax and express my creativity.",
+    "questions": [
+      {
+        "question": "What is the speaker's hobby?",
+        "options": ["Dancing", "Painting", "Reading", "Swimming"],
+        "answer": "Painting"
+      }
+    ]
+  },
+  {
+    "title": "How Plants Grow",
+    "paragraph": "Plants need sunlight, water, and soil to grow. The process of photosynthesis allows them to make their own food.",
+    "questions": [
+      {
+        "question": "What do plants need to grow?",
+        "options": ["Wind, fire, rocks", "Sunlight, water, soil", "Darkness, cold, snow", "Electricity, oil, metal"],
+        "answer": "Sunlight, water, soil"
+      }
+    ]
+  },
+  {
+    "title": "A Rainy Day",
+    "paragraph": "It rained all day yesterday. The streets were wet and the sky was grey, but we stayed inside and played board games.",
+    "questions": [
+      {
+        "question": "What did the people do on a rainy day?",
+        "options": ["Went swimming", "Played board games", "Visited the zoo", "Traveled by car"],
+        "answer": "Played board games"
+      }
+    ]
+  },
+  {
+    "title": "The Life of a Butterfly",
+    "paragraph": "Butterflies go through a life cycle that includes egg, caterpillar, chrysalis, and adult. It is a fascinating transformation.",
+    "questions": [
+      {
+        "question": "What is the second stage in a butterfly’s life cycle?",
+        "options": ["Egg", "Adult", "Caterpillar", "Chrysalis"],
+        "answer": "Caterpillar"
+      }
+    ]
+  },
+  {
+    "title": "Learning English Online",
+    "paragraph": "Many people learn English online using websites, apps, and video lessons. It is a flexible and modern way to study.",
+    "questions": [
+      {
+        "question": "Why do people learn English online?",
+        "options": ["It is boring", "It is free", "It is modern and flexible", "It is difficult"],
+        "answer": "It is modern and flexible"
+      }
+    ]
+  }
+]
